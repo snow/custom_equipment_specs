@@ -31,19 +31,10 @@ _Tasmanian Tiger Combat Pack_
 [百度贴吧测评实物图](http://tieba.baidu.com/p/2717163114)  
 [某国外网站](http://www.varusteleka.com/en/product/tasmanian-tiger-combat-pack/24387)
 
-_MYSTERY RANCH Gun Fighter_  
-[淘宝](http://item.taobao.com/item.htm?id=22490371488)
-
 _5.11 RUSH_  
 [12H](http://www.511tactical.com/rush-12-backpack.html) / 
 [24H](http://www.511tactical.com/rush-24-backpack.html) / 
 [72H](http://www.511tactical.com/rush-72-backpack.html)
-
-_MSM Adapt Pack_  
-[官网](http://milspecmonkey.com/store/packs-bags/341-msm-adapt-pack.html#/color-multicam)
-
-_First Spear Exigent Circumstance Pack_  
-[官网](http://www.first-spear.com/product.php?productid=17528)
 
 _TAD Fast EDC II_  
 [官网](http://store.tripleaughtdesign.com/Equipment/Packs-And-Pouches/FAST-Pack-EDC)
@@ -51,12 +42,15 @@ _TAD Fast EDC II_
 _苏州马盖先剑鱼_  
 [天猫](http://item.taobao.com/item.htm?spm=a1z09.5.0.0.hhqQSN&id=37047087806)
 
+_Osprey Escapist_
+[官网](http://www.ospreypacks.com/en/group/multi-use/escapist_series)
+
 
 修改要求
 --------
 ### 肩带
 * 肩带上半部分由外侧的主面料、中间的海绵和内侧的网面构成。
-* 肩带上半用插扣和下半的织带连接。插扣上套弹力织带环。*(TT22)*
+* 肩带上半用插扣和下半的织带连接。插扣上套弹力织带环。_(TT22)_
 * 肩带上半纵向织带之上，覆盖横向PALS带，位置同5.11 RUSH系列。
 * 肩带上半直接缝在背包上
 
@@ -71,14 +65,14 @@ _苏州马盖先剑鱼_
 * 确保主袋能装进13寸MacBook Air，如果有必要，就稍微加宽主袋。
 * 取消右手侧耳袋
 * 主袋拉链在右手侧可以拉到底
-* 主袋内部正面增加两个网袋。网袋开口朝向右手侧。且两个网袋共用一根拉链。*(马盖先剑鱼)*
+* 主袋内部正面增加两个网袋。网袋开口朝向右手侧。且两个网袋共用一根拉链。_(马盖先剑鱼)_
 * 主袋正面的两个网袋和里料之间的间隔，增加一条7.5cm宽的弹力织带，缝在里料上。弹力织带的插位，由低到高，1 * 10cm + 3 * 7cm + 3 * 2.5cm
 
 ### 左手侧耳袋的改动
 * 朝向背负者的方向，拉链可以拉到底
 
 ### 前兜片
-* 保持兜片的形状，但是取消前兜片上的圆形副袋，以PALS带覆盖前兜片。*(TAD Fast EDC)*
+* 保持兜片的形状，但是取消前兜片上的圆形副袋，以PALS带覆盖前兜片。_(TAD Fast EDC)_
 * 连接前兜片上部的两个插扣，从背带旁边改到背带上。
 
 ### 其它
@@ -109,3 +103,10 @@ _苏州马盖先剑鱼_
 笔和唇膏插在斜向上的弹力织带上，拔出更迅速。
 
 主袋内的弹力织带可以用来固定数据线、耳塞、充电器之类的小物件。
+
+
+设计过程中参考过的其它背包
+---------------------------
+* _MYSTERY RANCH Gun Fighter_
+* _MSM Adapt Pack_
+* _First Spear Exigent Circumstance Pack_
