@@ -21,14 +21,14 @@ Eagle Industries Yote 水袋包定制需求说明
 -----------
 以EI Yote作为定制的基础。  
 _Eagle Industries Yote Hydration Pack_  
-[官网](http://www.eagleindustries.com/products/detail.aspx?id=234)  
+[官网](http://www.eagleindustries.com/products/detail.aspx?id=234) /
 [翔野复刻版](http://www.flyye.com/cn/ArticleShow.asp?ProdID=0492)
 
 亦有从下列背包剪裁所需。  
 _Tasmanian Tiger Combat Pack_  
-[官网](http://www.tasmaniantactical.com/TT_Combat_Pack_p/7716.htm)  
-[淘宝](http://item.taobao.com/item.htm?spm=a230r.1.14.1.ReOVrm&id=10956779680)  
-[百度贴吧测评实物图](http://tieba.baidu.com/p/2717163114)  
+[官网](http://www.tasmaniantactical.com/TT_Combat_Pack_p/7716.htm) /
+[淘宝](http://item.taobao.com/item.htm?spm=a230r.1.14.1.ReOVrm&id=10956779680) /
+[百度贴吧测评实物图](http://tieba.baidu.com/p/2717163114) /
 [某国外网站](http://www.varusteleka.com/en/product/tasmanian-tiger-combat-pack/24387)
 
 _5.11 RUSH_  
